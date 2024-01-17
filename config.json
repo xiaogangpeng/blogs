@@ -9,7 +9,7 @@
 		"subtitle": "Front back left right end engineer",
 		"enter": "enter",
 		"supportAuthor": true,
-		"background": false
+		"background": true
 	},
 	"main": {
 		"name": "Eric Peng",
