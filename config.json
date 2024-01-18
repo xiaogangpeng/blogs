@@ -6,7 +6,7 @@
 	},
 	"intro": {
 		"title": "Eric Peng",
-		"subtitle": "Front back left right end engineer",
+		"subtitle": "Every cloud has a silver lining",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:pengxiaogang@hdu.edu.cn",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/xiaogangpeng",
 				"icon": "github",
 				"text": "Github"
 			}
