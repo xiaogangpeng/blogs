@@ -26,9 +26,9 @@
 				"text": "Blog"
 			},
 			"second": {
-				"href": "https://xiaogangpeng.github.io/photo_gallery",
+				"href": "https://xiaogangpeng.github.io/photo_gallery/",
 				"icon": "xiaolian",
-				"text": "About"
+				"text": "Gallery"
 			},
 			"third": {
 				"href": "mailto:pengxiaogang@hdu.edu.cn",
